@@ -1,4 +1,4 @@
-# Smart Street Light Project
+# streetlights# Smart Street Light Project
 
 This project manages street light status and fault reporting.
 
